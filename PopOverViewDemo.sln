@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopOverViewDemo", "PopOverViewDemo\PopOverViewDemo.csproj", "{DC15A711-67B7-4F82-ADD7-FB148DB42456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Release|iPhone.Build.0 = Release|iPhone
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DC15A711-67B7-4F82-ADD7-FB148DB42456}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC969CF-65B2-408A-9903-F7988E34001E}
+	EndGlobalSection
+EndGlobal
